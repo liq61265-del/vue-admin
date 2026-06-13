@@ -1,0 +1,45 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Qoder Editor (不要提交编辑器本身)
+bin/
+locales/
+resources/
+tools/
+*.pak
+*.dll
+*.exe
+*.dat
+*.bin
+*.html
+*.json
+!src/
+!pom.xml
+*.VisualElementsManifest.xml
+unins*
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
